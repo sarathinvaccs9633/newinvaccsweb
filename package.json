@@ -1,0 +1,23 @@
+{
+  "name": "newbegining",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "this is the test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarathinvaccs9633/newinvaccsweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarathinvaccs9633/newinvaccsweb/issues"
+  },
+  "homepage": "https://github.com/sarathinvaccs9633/newinvaccsweb#readme"
+}
